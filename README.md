@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jay_Jangid
-- 👀 I’m interested in ...web development and app development 
-- 🌱 I’m currently learning ...javascript
-- 💞️ I’m looking to collaborate on ...css projects
+- 👀 I’m interested in ...Artificial Intelligence and CyberSecurity 
+- 🌱 I’m currently learning ...python and Kali Linux
+- 💞️ I’m looking to collaborate on ...python projects
 - 📫 How to reach me ...email me @jangidjay17@gmail.com
 
 <!---
